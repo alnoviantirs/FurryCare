@@ -31,7 +31,7 @@ Ikuti langkah-langkah berikut untuk menginstal dan menjalankan aplikasi FurryCar
 3. **Konfigurasi Database**
 
    - Buat database baru di MySQL.
-   - Import file `furrycare.sql` ke database yang baru dibuat.
+   - Import file `frontera_new.sql` ke database yang baru dibuat.
    - Konfigurasikan koneksi database di `application/config/database.php`.
 
 4. **Konfigurasi Base URL**
